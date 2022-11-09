@@ -592,4 +592,5 @@ public class Example extends JFrame {
 		}
 		return result;
 	}
+	// comment
 }
